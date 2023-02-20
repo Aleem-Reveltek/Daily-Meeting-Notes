@@ -1,2 +1,2 @@
-# Daily-Meeting-Notes
+# Daily-Meeting
 
